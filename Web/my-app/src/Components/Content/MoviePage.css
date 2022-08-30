@@ -1,0 +1,32 @@
+.movie-border {
+    justify-content: center;
+    padding-top: 15px;
+    text-align: center;
+    padding: 3px;
+    margin: auto;
+    width: 90%;
+    border: 1px solid black;
+}
+
+body{
+    background-color: #ecedee !important;
+}
+
+.card{
+    border: none;
+    overflow: hidden
+}
+
+.main_image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    
+    
+}
+    
+.content p{font-size: 12px}
+.ratings span{font-size: 14px;margin-left: 12px}
+.right-side{position: relative}
+.buttons .btn{height: 50px;width: 150px;border-radius: 0px !important}
